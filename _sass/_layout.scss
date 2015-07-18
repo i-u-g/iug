@@ -28,7 +28,7 @@
         font-family: 'Open Sans';
 
         @include media-query($on-palm) {
-            font-size:40px !important;
+            font-size:30px !important;
             letter-spacing: 0px;
         }
     }
@@ -55,9 +55,11 @@
             line-height: $base-line-height;
             font-weight: bold;
             letter-spacing: 0.05em;
+            margin-left: 10px;
 
-            &:not(:first-child) {
-                margin-left: 20px;
+            &:not(:last-child) {
+
+                margin-right: 10px;
             }
         }
 
@@ -84,7 +86,7 @@
  * ============================================== */
     .page-content {
         padding: $spacing-unit 0;
-        text-align: justify;
+        //text-align: justify;
     }
 
     .page-heading {
