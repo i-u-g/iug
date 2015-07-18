@@ -10,7 +10,7 @@ Ich korrigiere, optimiere und schreibe Texte aller Art. Durch meine Tätigkeit a
 
 ## Ausbildung
 
-2008-2010 Meisterschülerstudium an der Hochschule für Grafik und Buchkunst Leipzig, Abschluss: Meisterschülertitel
+2008-2010 Meisterschülerstudium an der Hochschule für [Grafik und Buchkunst Leipzig](https://hgb-leipzig.de), Abschluss: Meisterschülertitel
 
 2000-2007 Studium der Bildenden Kunst (Schwerpunkt Fotografie) an der Hochschule für Grafik und Buchkunst Leipzig, Abschluss: Diplom (theoretische Diplomarbeit: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“)
 
