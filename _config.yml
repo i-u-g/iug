@@ -1,10 +1,10 @@
 # Site settings
-title: Inhalt und Gestaltung
+title: Text und Gestaltung
 tagline: Lektorat
 email:
 description: Lektorat
 baseurl: "/iug" # the subpath of your site, e.g. /blog/
-url: "https://asommer.github.io" # the base hostname & protocol for your site
+url: "http://username.github.io" # the base hostname & protocol for your site
 twitter_username: username
 github_username: username
 
