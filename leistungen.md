@@ -2,6 +2,7 @@
 layout: page
 title: Leistungen
 permalink: /leistungen/
+page: 2
 ---
 
   * Korrektorat und Lektorat von deutschsprachigen Texten aller Art

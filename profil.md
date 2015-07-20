@@ -2,6 +2,7 @@
 layout: page
 title: Profil
 permalink: /
+page: 1
 ---
 Nach einem Studium der Germanistik und Geschichte und einem Studium der Bildenden Kunst bin ich freiberuflich in beiden Feldern tätig und verbinde auf diese Weise mein Interesse an Bildern und ästhetischen Konzepten mit meiner Affinität zum Schreiben und der Arbeit am Text.
 
