@@ -2,6 +2,7 @@
 layout: page
 title: Kontakt
 permalink: /kontakt/
+page: 06
 ---
 Kontakt
 
