@@ -2,10 +2,12 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <meta name="robots" content="index,follow">
-
   <meta name="keywords" lang="de" content="Lektorat, Korrektorat, Artist Statements, Project Proposals, Förderanträge, Berichte, PhD">
+
+  <meta property="og:url" content="http://inhaltundgestaltung.net/"/>
+  <meta property="og:site_name" content="Inhalt und Gestaltung - Lektorat und Korrektorat für künstlerische und wissenschaftliche Texte, Artist Statements, Ausstellungen, Kataloge"/>
+  <meta property="og:locale" content="de_DE"/>
 
   {% assign relative-baseurl = "" %}
   {% assign canon = page.url | append: "page.html" | split: "/" %}
@@ -16,12 +18,14 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+<link rel="shortcut icon" href="{{ relative-baseurl }}favicon.ico" />
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
   <link rel="stylesheet" href="./css/main.css">
 
-  <link rel="stylesheet" href="{{ relative-baseurl }}/css/main.css">
-  
+  <link rel="stylesheet" href="{{ relative-baseurl }}css/main.css">
+
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
