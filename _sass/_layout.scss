@@ -23,7 +23,7 @@
           //padding-top: 20px;
           clear: both;
           text-transform: uppercase;
-          font-family: 'Open Sans';
+          font-family: 'Open Sans', 'Helvetica', Arial, Sans ;
 
           @include media-query($on-palm) {
               font-size:30px ;

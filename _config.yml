@@ -4,7 +4,8 @@ tagline: Lektorat
 email:
 description: Lektorat
 baseurl: "/iug" # the subpath of your site, e.g. /blog/
-url: "http://username.github.io" # the base hostname & protocol for your site
+#url: "http://i-u-g.github.io" # the base hostname & protocol for your site
+url: "http://inhaltundgstaltung.de" # the base hostname & protocol for your site
 twitter_username: username
 github_username: username
 
