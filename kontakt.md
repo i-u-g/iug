@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kontakt & Impressum
+title: Kontakt / Impressum
 permalink: /kontakt/
 page: 06
 ---
