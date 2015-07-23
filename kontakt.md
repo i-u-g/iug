@@ -4,21 +4,20 @@ title: Kontakt
 permalink: /kontakt/
 page: 06
 ---
-Kontakt
 
 Diana Artus
 zarazea0@gmail.com
 +49 (0) 163 7191514
 
 
-Impressum
+##Impressum
 
 Diana Artus
 Fuldastraße 6
 12043 Berlin
 
 Telefon: 	+49 (0) 163 7191514
-E-Mail: 	zarazea0@gmail.com
+E-Mail: 	i-u-g@gmx.de
 
 Steuernummer: 16/212/52024 / Finanzamt Berlin-Neukölln
 
