@@ -4,8 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 page: 06
 ---
-Kontakt
-
 Diana Artus
 zarazea0@gmail.com
 +49 (0) 163 7191514
