@@ -27,7 +27,7 @@ page: 4
 ## eigene Texte und Artikel:
 theoretische Diplomarbeit Bildende Kunst: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“ (2007)
 
-Magisterarbeit Germanistik: „Großstadtwahrnehmung in der Frühmoderne. Zum Werk Franz Hessels“ (2002)
+Magisterarbeit Germanistik: „Großstadtwahrnehmung in der Frühmoderne. Zum Werk Franz Hessels“ (2000)
 
 diverse Artikel und Texte zu den Themenbereichen Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“ (seit 2006)
 
