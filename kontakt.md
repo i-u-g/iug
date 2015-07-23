@@ -6,7 +6,7 @@ page: 06
 ---
 
 Diana Artus
-zarazea0@gmail.com
+i-u-g@gmx.de
 +49 (0) 163 7191514
 
 
