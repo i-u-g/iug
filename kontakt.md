@@ -1,25 +1,18 @@
 ---
 layout: page
-title: Kontakt
+title: Kontakt / Impressum
 permalink: /kontakt/
 page: 06
 ---
-Kontakt
+Angaben gemäß § 5 TMG:
 
 Diana Artus
-zarazea0@gmail.com
-+49 (0) 163 7191514
 
----
+Post: Fuldastraße 6, 12043 Berlin
 
-## Impressum
+E-Mail: i-u-g@gmx.de
 
-Diana Artus
-Fuldastraße 6
-12043 Berlin
-
-Telefon: 	+49 (0) 163 7191514
-E-Mail: 	zarazea0@gmail.com
+Telefon: +49 (0) 163 7191514
 
 Steuernummer: 16/212/52024 / Finanzamt Berlin-Neukölln
 

@@ -146,14 +146,10 @@
     }
 
     .post-title {
-        font-size: 28px;
+        font-size: 24px;
         letter-spacing: -1px;
         line-height: 1;
         font-weight: 400;
-
-        @include media-query($on-laptop) {
-            font-size: 24px;
-        }
     }
 
     .post-content {
