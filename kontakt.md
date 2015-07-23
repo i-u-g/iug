@@ -14,9 +14,7 @@ Telefon: +49 (0) 163 7191514
 ## Impressum
 
 
-Diana Artus
-Fuldastraße 6
-12043 Berlin
+Diana Artus, Fuldastraße 6, 12043 Berlin
 
 E-Mail: i-u-g@gmx.de
 
