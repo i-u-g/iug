@@ -25,7 +25,7 @@ page: 4
 - Tobias Zielony (2009–2011)
 
 ## eigene Texte und Artikel:
-Theoretische Diplomarbeit Bildende Kunst: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“ (2007)
+theoretische Diplomarbeit Bildende Kunst: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“ (2007)
 
 Magisterarbeit Germanistik: „Großstadtwahrnehmung in der Frühmoderne. Zum Werk Franz Hessels“ (2002)
 
