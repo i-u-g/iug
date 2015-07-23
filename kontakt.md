@@ -4,6 +4,8 @@ title: Kontakt
 permalink: /kontakt/
 page: 06
 ---
+Angaben gemäß § 5 TMG:
+
 Diana Artus
 
 Post: Fuldastraße 6, 12043 Berlin
