@@ -25,6 +25,9 @@ page: 4
 - Tobias Zielony (2009–2011)
 
 ## eigene Texte und Artikel:
-bevorzugte Themenbereiche: Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“ (seit 2006)
+Theoretische Diplomarbeit Bildende Kunst: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“ (2007)
+Magisterarbeit: „Großstadtwahrnehmung in der Frühmoderne. Zum Werk Franz Hessels“ (2002)
+
+diverse Artikel und Texte zu den Themenbereichen: Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“ (seit 2006)
 
 [Link zum Textarchiv]( http://trafo-m.de/dianaartus/?page_id=34)
