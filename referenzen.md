@@ -6,7 +6,7 @@ page: 4
 ---
 
 
-## Lektorat im Kunstbereich:
+## Lektorat im Kunst- und Kulturbereich:
 
 * Berlinische Galerie, Museum für moderne und zeitgenössische Kunst: Ausstellungskatalog „Radikal Modern. Planen und Bauen im Berlin der 1960er-Jahre“ (2015)
 * BARarchitekten, Berlin: Katalog und Präsentationstexte für die Ausstellung „Ludwig Leo – Ausschnitt“ (2013)
