@@ -13,7 +13,7 @@ page: 4
 
 ## Lektorat im Wissenschaftsbereich:
 - SRH Fernhochschule Riedlingen: Studienbriefe aus verschiedenen Fachgebieten (seit 2013)
-- Universität Tübingen, Institut für Erziehungswissenschaft: Tagungsband „Bildung und Bewältigung im Zeichen von sozialer Ungleichheit“ sowie diverse Forschungsschriften von Lehrenden und Doktoranden des Fachbereichs (2013)
+- Universität Tübingen, Institut für Erziehungswissenschaft: Tagungsband „Bildung und Bewältigung im Zeichen von sozialer Ungleichheit“ sowie diverse Forschungsschriften von Lehrenden und Doktoranden des Instituts (2013)
 
 ## Redaktion:
 - Magazin „Stadtaspekte – die dritte Seite der Stadt“: Kunstredaktion (2013)
