@@ -6,14 +6,14 @@ page: 4
 ---
 
 
-## Lektorat im Kunstbereich:
+## Lektorat im Kunst- und Kulturbereich:
 
 * Berlinische Galerie, Museum für moderne und zeitgenössische Kunst: Ausstellungskatalog „Radikal Modern. Planen und Bauen im Berlin der 1960er-Jahre“ (2015)
 * BARarchitekten, Berlin: Katalog und Präsentationstexte für die Ausstellung „Ludwig Leo – Ausschnitt“ (2013)
 
 ## Lektorat im Wissenschaftsbereich:
 - SRH Fernhochschule Riedlingen: Studienbriefe aus verschiedenen Fachgebieten (seit 2013)
-- Universität Tübingen, Fachbereich Erziehungswissenschaften: Tagungsband „Bildung und Bewältigung im Zeichen von sozialer Ungleichheit“ sowie diverse Forschungsschriften von Lehrenden und Doktoranden des Fachbereichs (2013)
+- Universität Tübingen, Institut für Erziehungswissenschaft: Tagungsband „Bildung und Bewältigung im Zeichen von sozialer Ungleichheit“ sowie diverse Forschungsschriften von Lehrenden und Doktoranden des Instituts (2013)
 
 ## Redaktion:
 - Magazin „Stadtaspekte – die dritte Seite der Stadt“: Kunstredaktion (2013)
@@ -25,6 +25,7 @@ page: 4
 - Tobias Zielony (2009–2011)
 
 ## eigene Texte und Artikel:
-bevorzugte Themenbereiche: Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld; Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“ (seit 2006)
-
+- theoretische Diplomarbeit Bildende Kunst: „Reinkommen – Drinbleiben. Über Zugang und Erfolg im Kunstbetrieb“ (2007)
+- Magisterarbeit Germanistik: „Großstadtwahrnehmung in der Frühmoderne. Zum Werk Franz Hessels“ (2000)
+- diverse Artikel und Texte zu den Themenbereichen Kunstsoziologie, öffentlicher Raum, Produktions- und Arbeitsbedingungen im kreativen Feld (seit 2006, Veröffentlichungen im Wochenmagazin „Jungle World“ und im Kunstmagazin „von hundert“)   
 [Link zum Textarchiv]( http://trafo-m.de/dianaartus/?page_id=34)

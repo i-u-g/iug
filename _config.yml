@@ -2,11 +2,12 @@
 title: Inhalt und Gestaltung
 tagline: Lektorat
 email:
-description: Lektorat
+description: "Lektorat, Korrektorat und Produktion von Texten aller Art - Schwerpunkte: Lektorat im Kunst-, Kultur- und Wissenschaftsbereich, Texte für Galerien, Institutionen, Künstler, Hochschulen etc."
 baseurl: "/iug" # the subpath of your site, e.g. /blog/
-url: "http://i-u-g.github.io/iug" # the base hostname & protocol for your site
+#url: "http://i-u-g.github.io" # the base hostname & protocol for your site
+url: "http://inhaltundgstaltung.de" # the base hostname & protocol for your site
 twitter_username: username
-github_username: username
+github_username: i-u-g
 
 # Build settings
 markdown: redcarpet
