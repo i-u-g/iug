@@ -5,12 +5,12 @@ email:
 description: "Lektorat, Korrektorat und Produktion von Texten aller Art - Schwerpunkte: Lektorat im Kunst-, Kultur- und Wissenschaftsbereich, Texte für Galerien, Institutionen, Künstler, Hochschulen etc."
 baseurl: "/iug" # the subpath of your site, e.g. /blog/
 #url: "http://i-u-g.github.io" # the base hostname & protocol for your site
-url: "http://inhaltundgstaltung.de" # the base hostname & protocol for your site
+url: "http://inhaltundgestaltung.de" # the base hostname & protocol for your site
 twitter_username: username
 github_username: username
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:
